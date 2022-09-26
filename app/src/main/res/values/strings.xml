@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="about_btn">About</string>
+    <string name="calculate_btn">Pay Calculator</string>
+    <string name="student_info">
+        Full Name: Julio Renaldi De Castro\n
+        Student ID: 101295616
+    </string>
+    <string name="calculate_rate">Calculate</string>
+    <string name="hours_input">Please input your hours</string>
+    <string name="hourly_rate_input">Please input your hourly rate</string>
+    <string name="output"> </string>
+</resources>
