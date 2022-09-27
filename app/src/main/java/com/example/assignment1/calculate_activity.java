@@ -56,7 +56,7 @@ public class calculate_activity extends AppCompatActivity {
                 Double pay = (value_of_hours - 40) * value_of_rate * 1.5 + 40 * value_of_hours;
                 Double tax = pay * 0.18;
                 Double result = pay + tax;
-                output.setText("The pay with tax rate: " + result);
+                output.setText("The pay with bonus: " + result);
             }
 
         }
